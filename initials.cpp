@@ -9,4 +9,6 @@ int main() {
   std::cout << "C      A   A\n";
   std::cout << "C    C A   A\n";
   std::cout << " CCC   A   A\n";
+
+  return 0;
 }
